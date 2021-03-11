@@ -70,6 +70,18 @@ const data = {
             rating: 4.5,
             numReviews: 10,
             description: 'high quality product'
+        },
+
+        {
+            _id: '7',
+            name: 'Tiffiny Slim Pantss',
+            category: 'Shirts',
+            image: './images/p6.jpg',
+            price: 350,
+            brand: 'Tiffiny',
+            rating: 4.5,
+            numReviews: 10,
+            description: 'high quality product'
         }
     ]
 };
